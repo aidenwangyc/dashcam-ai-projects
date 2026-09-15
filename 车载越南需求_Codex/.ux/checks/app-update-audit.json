@@ -1,0 +1,10 @@
+{
+  "passed": [
+    "No standalone App update result or error pages, navigation targets or selector entries",
+    "Loading Toast stays centered; Info row content and bounds remain unchanged on desktop, narrow phones and landscape",
+    "Repeated taps create one check and one centered update dialog with horizontal actions",
+    "Failures remain on Info and retain known version; retry resolves correctly without a false latest result",
+    "Leaving or closing cancels loading and stale callbacks; reduced-motion retains readable feedback"
+  ],
+  "errors": []
+}

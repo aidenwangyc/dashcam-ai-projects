@@ -1,0 +1,10 @@
+{
+  "passed": [
+    "Share start/duration are clamped to source; summary, failure, retry, cancellation and storage return preserve selection",
+    "Sub-second sources and narrow viewports work; navigating away cancels stale export callbacks",
+    "Local album returns to preview or storage task according to entry source",
+    "Map deletion requires confirmation, downloads avoid duplicates, and failed updates retain the older package",
+    "Map errors retry; cancellation and navigation never create false completed downloads"
+  ],
+  "errors": []
+}
